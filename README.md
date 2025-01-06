@@ -16,8 +16,10 @@ This repository contains a Go implementation of a **Bloom Filter**—a space-eff
 - Go (Golang) installed
 - Modules `github.com/spaolacci/murmur3` and `github.com/google/uuid installed`
     Install using:
-    ```go get github.com/spaolacci/murmur3
-        go get github.com/google/uuid ```
+    ```
+        go get github.com/spaolacci/murmur3
+        go get github.com/google/uuid 
+    ```
 
 ## Key Components
 
